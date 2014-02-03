@@ -5,8 +5,7 @@
  */
 
 
-var objnew = {}
-
+var objnew = {};
 objnew.id = 1;
 objnew.name;
 
